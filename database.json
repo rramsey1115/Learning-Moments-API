@@ -1,0 +1,642 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Gabriel Batholemew Wilson",
+      "email": "gabriel.bart.wilson@yahoo.eu",
+      "password": "gabriel",
+      "picture": "https://media.istockphoto.com/id/995419472/photo/funny-businessman-on-the-beach.jpg?s=2048x2048&w=is&k=20&c=5u28LamauGNgA5BrEFU3sMZyiRrqutRVXu6-kIHFcwk=",
+      "about": "Rumspringa was eye opening for me, so I decided to leave my community, move to Miami, and pursue my dream of working on the beach as a software developer. Outside of work you can find me basking in the Miami sun while downing margaritas by the pitcher.",
+      "cohort": "61"
+    },
+    {
+      "id": 2,
+      "fullname": "Stephanie Boush",
+      "email": "stephgogirl@comcast.org",
+      "password": "stephanie",
+      "picture": "https://www.almostreadyblog.com/wp-content/uploads/2022/05/IMG_6809.jpg",
+      "about": "I currently work for DoorDash as a Junior Web Developer, which is PERFECT because I think I'm their #1 customer! I can't get enough deliveries from Cheesecake Factory. In my free time outside of work, I enjoy brunch with my squad and trying out the cutest new Instagram murals.",
+      "cohort": "66"
+    },
+    {
+      "id": 3,
+      "fullname": "Michel Nelson Arnold, Jr.",
+      "email": "choochoolover@trainsrock.net",
+      "password": "michael",
+      "picture": "https://www.nbc4i.com/wp-content/uploads/sites/18/2018/03/031818-trains-1280x720_38932889_ver1.0.jpg?w=1280",
+      "about": "My path to being a software developer took me down many tracks. For over 20 years I was a railroad engineer. My passion for trains still thrills me today, passing my time building a backyard train which my grandkids love to ride, as well as my museum-grade model train I love to customize in my basement.",
+      "cohort": "54"
+    },
+    {
+      "id": 4,
+      "fullname": "Alexa Goodson",
+      "email": "myfavoriteponyrider@farmersonly.gov",
+      "password": "alexa",
+      "picture": "https://thumbs.dreamstime.com/b/attractive-middle-aged-cowgirl-white-hat-woman-31597899.jpg",
+      "about": "I'm just a small-town girl looking for her cowboy to sweep me off my feet. This is the weirdest dating site I've ever been on, but I'm open to trying new things, so here we are!",
+      "cohort": "41"
+    },
+    {
+      "id": 5,
+      "fullname": "Larry Taft",
+      "email": "civilwarbuff@battlegrounds.net",
+      "password": "larry",
+      "picture": "https://media.istockphoto.com/id/105932842/photo/guarding-camp.jpg?s=612x612&w=0&k=20&c=adQe1-Mfmn-3S_B7Sg9IRzNbhxXO0MnDsa99OerP8jI=",
+      "about": "When I'm not improving my coding skills, you can find me in a trench sporting my authentic Civil War Era uniform and reenacting the great battles of our forefathers. God Bless America and those who died defending this great country.",
+      "cohort": "39"
+    },
+    {
+      "id": 6,
+      "fullname": "Sammy Jackson",
+      "email": "test@test.com",
+      "password": "test",
+      "picture": "https://cdn.vox-cdn.com/thumbor/rEvCjOqqWB2Yf7ZCKNoqnevtLWY=/0x0:1579x816/2000x1333/filters:focal(756x353:757x354)/cdn.vox-cdn.com/uploads/chorus_asset/file/13178613/pulp_fiction_brett_kavanaugh.png",
+      "about": "You think water moves fast? You should see ice. It moves like it has a mind. Like it knows it killed the world once and got a taste for murder. After the avalanche, it took us a week to climb out. Now, I don't know exactly when we turned on each other, but I know that seven of us survived the slide... and only five made it out. Now we took an oath, that I'm breaking now. We said we'd say it was the snow that killed the other two, but it wasn't. Nature is lethal but it doesn't hold a candle to man.\n",
+      "cohort": "67"
+    },
+    {
+      "id": 7,
+      "fullname": "Olivia Smith",
+      "email": "olivia.smith@email.com",
+      "password": "olivia",
+      "picture": "https://media.istockphoto.com/id/1386479313/photo/happy-millennial-afro-american-business-woman-posing-isolated-on-white.jpg?s=612x612&w=0&k=20&c=8ssXDNTp1XAPan8Bg6mJRwG7EXHshFO5o0v9SIj96nY=",
+      "about": "I'm a passionate web developer with a love for front-end design. When I'm not coding, you'll find me exploring new hiking trails and capturing beautiful landscapes through my camera lens.",
+      "cohort": "67"
+    },
+    {
+      "id": 8,
+      "fullname": "Ethan Johnson",
+      "email": "ethan.johnson@email.com",
+      "password": "ethan",
+      "picture": "https://images.pexels.com/photos/3777943/pexels-photo-3777943.jpeg?cs=srgb&dl=pexels-andrea-piacquadio-3777943.jpg&fm=jpg",
+      "about": "I'm a software engineer who enjoys building scalable applications. My coding journey started with a fascination for video games, and now I create my own game mods in my free time.",
+      "cohort": "52"
+    },
+    {
+      "id": 9,
+      "fullname": "Sophia Garcia",
+      "email": "sophia.garcia@email.com",
+      "password": "sophia",
+      "picture": "https://st3.depositphotos.com/1011434/13157/i/450/depositphotos_131572502-stock-photo-happy-woman-smiling.jpg",
+      "about": "As a back-end developer, I specialize in optimizing server performance. Outside of work, I'm an avid reader and love discussing classic literature with fellow enthusiasts.",
+      "cohort": "61"
+    },
+    {
+      "id": 10,
+      "fullname": "Mason Martinez",
+      "email": "mason.martinez@email.com",
+      "password": "mason",
+      "picture": "https://t3.ftcdn.net/jpg/02/43/12/40/360_F_243124072_6XpPAWH0VM911MjRBfqp4QQ5PKsvD6T9.jpg",
+      "about": "I'm a coding enthusiast who's always up for a challenge. When I'm not coding, you'll find me experimenting with new recipes and perfecting my culinary skills.",
+      "cohort": "43"
+    },
+    {
+      "id": 11,
+      "fullname": "Ava Lee",
+      "email": "ava.lee@email.com",
+      "password": "ava",
+      "picture": "https://previews.123rf.com/images/lenanet/lenanet1711/lenanet171100048/92786934-beautiful-woman-headshot-over-white-background.jpg",
+      "about": "I'm a front-end developer with a passion for creating stunning user interfaces. In my spare time, I'm an amateur photographer capturing the beauty of everyday life.",
+      "cohort": "55"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Lightbulb Moment Using For Loops",
+      "body": "Today I learned that I can use a for loop  in JavaScript to iterate through items in an array, that was pretty cool. I can now make a list based on an array of items!",
+      "date": "09/01/2021",
+      "userId": 11,
+      "topicId": 3
+    },
+    {
+      "id": 2,
+      "title": "Is anyone else in the dark about this...",
+      "body": "I just found out that my cohort will be learning C# during our backend portion of the boot camp... I'm SO CONFUSED!",
+      "date": "08/22/2016",
+      "userId": 4,
+      "topicId": 5
+    },
+    {
+      "id": 3,
+      "title": "CSS",
+      "body": "El Diablo",
+      "date": "05/05/2022",
+      "userId": 5,
+      "topicId": 2
+    },
+    {
+      "id": 4,
+      "title": "React is confusing but fun??",
+      "body": "I feel like React is very useful and awesome, and I enjoy the way it works, but I'm struggling with the differences in managing state... I feel a breakthrough coming though!!",
+      "date": "09/28/2023",
+      "userId": 8,
+      "topicId": 4
+    },
+    {
+      "id": 5,
+      "title": "I am feeling really comfortable with HTML",
+      "body": "I know that's not much of an accomplishment for most of you, but reading HTML was so hard for me... SO GOOD NEWS...after 8 weeks I'm finally finished with Deshaun's Dog Walking and never felt better!!!",
+      "date": "11/12/2020",
+      "userId": 3,
+      "topicId": 1
+    },
+    {
+      "id": 6,
+      "title": "Some words of wisdom from my mentor",
+      "body": "He told me to just. do. better. I don't think I'll ever be able to look at coding the same again.",
+      "date": "02/14/2021",
+      "userId": 5,
+      "topicId": 6
+    },
+    {
+      "id": 7,
+      "title": "My First React Project",
+      "body": "Just started my first React project, and it's both exciting and challenging. Can't wait to see the end result!",
+      "date": "09/15/2023",
+      "userId": 1,
+      "topicId": 4
+    },
+    {
+      "id": 8,
+      "title": "CSS Flexbox Mastery",
+      "body": "Finally mastered CSS Flexbox layout. It's amazing how it simplifies web layout design.",
+      "date": "10/05/2023",
+      "userId": 2,
+      "topicId": 2
+    },
+    {
+      "id": 9,
+      "title": "Web Development Tips",
+      "body": "Sharing some useful web development tips I've learned along the way. Hope it helps!",
+      "date": "11/20/2023",
+      "userId": 3,
+      "topicId": 6
+    },
+    {
+      "id": 10,
+      "title": "Coding Challenges",
+      "body": "Challenging myself with coding problems every day. It's a great way to improve!",
+      "date": "12/02/2023",
+      "userId": 4,
+      "topicId": 3
+    },
+    {
+      "id": 11,
+      "title": "New JavaScript Framework",
+      "body": "Exploring a new JavaScript framework. It's always exciting to learn something new!",
+      "date": "01/10/2024",
+      "userId": 5,
+      "topicId": 3
+    },
+    {
+      "id": 12,
+      "title": "Frontend vs. Backend",
+      "body": "Debating the pros and cons of frontend and backend development. What's your preference?",
+      "date": "02/15/2024",
+      "userId": 6,
+      "topicId": 6
+    },
+    {
+      "id": 13,
+      "title": "Web Development Bootcamp",
+      "body": "Reflecting on my journey through a web development boot camp. It's been quite a ride!",
+      "date": "03/20/2024",
+      "userId": 11,
+      "topicId": 6
+    },
+    {
+      "id": 14,
+      "title": "Coding and Coffee",
+      "body": "Coding and coffee make the perfect pair. Do you have a favorite coding beverage?",
+      "date": "04/05/2024",
+      "userId": 10,
+      "topicId": 6
+    },
+    {
+      "id": 15,
+      "title": "Responsive Design",
+      "body": "Achieving responsive design in web development can be tricky, but it's so important!",
+      "date": "05/10/2024",
+      "userId": 9,
+      "topicId": 2
+    },
+    {
+      "id": 16,
+      "title": "Favorite Coding Tools",
+      "body": "Sharing my favorite coding tools and IDEs. What tools do you swear by?",
+      "date": "06/15/2024",
+      "userId": 4,
+      "topicId": 6
+    },
+    {
+      "id": 17,
+      "title": "Tech News Update",
+      "body": "Stay updated with the latest tech news and trends. Knowledge is power!",
+      "date": "07/20/2024",
+      "userId": 9,
+      "topicId": 6
+    },
+    {
+      "id": 18,
+      "title": "Debugging Adventures",
+      "body": "Sometimes debugging feels like going on an adventure. Share your memorable debugging stories!",
+      "date": "08/05/2024",
+      "userId": 10,
+      "topicId": 3
+    },
+    {
+      "id": 19,
+      "title": "Git and Version Control",
+      "body": "Learning Git and version control is a crucial skill for developers. What are your Git tips?",
+      "date": "09/10/2024",
+      "userId": 11,
+      "topicId": 6
+    },
+    {
+      "id": 20,
+      "title": "Favorite Coding Languages",
+      "body": "Discussing our favorite coding languages. Which one is your go-to?",
+      "date": "10/15/2024",
+      "userId": 9,
+      "topicId": 6
+    },
+    {
+      "title": "Figuring Out React",
+      "body": "Do you see any Teletubbies in here? Do you see a slender plastic tag clipped to my shirt with my name printed on it? Do you see a little Asian child with a blank expression on his face sitting outside on a mechanical helicopter that shakes when you put quarters in it? No? Well, that's what you see at a toy store. And you must think you're in a toy store, because you're here shopping for an infant named Jeb.",
+      "date": "10/05/2023",
+      "userId": 6,
+      "topicId": 4,
+      "id": 21
+    },
+    {
+      "title": "Test Test",
+      "body": "test",
+      "date": "10/06/2023",
+      "userId": 6,
+      "topicId": 6,
+      "id": 22
+    },
+    {
+      "title": "Test Test Test Test Test",
+      "body": "Test test test test test test",
+      "date": "10/06/2023",
+      "userId": 6,
+      "topicId": 2,
+      "id": 23
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "name": "HTML"
+    },
+    {
+      "id": 2,
+      "name": "CSS"
+    },
+    {
+      "id": 3,
+      "name": "JS"
+    },
+    {
+      "id": 4,
+      "name": "React"
+    },
+    {
+      "id": 5,
+      "name": "C#"
+    },
+    {
+      "id": 6,
+      "name": "Other"
+    }
+  ],
+  "userLikes": [
+    {
+      "id": 1,
+      "postId": 1,
+      "userId": 2
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "userId": 3
+    },
+    {
+      "id": 3,
+      "postId": 1,
+      "userId": 4
+    },
+    {
+      "id": 4,
+      "postId": 2,
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "postId": 2,
+      "userId": 3
+    },
+    {
+      "id": 6,
+      "postId": 2,
+      "userId": 4
+    },
+    {
+      "id": 7,
+      "postId": 3,
+      "userId": 1
+    },
+    {
+      "id": 8,
+      "postId": 3,
+      "userId": 2
+    },
+    {
+      "id": 9,
+      "postId": 3,
+      "userId": 4
+    },
+    {
+      "id": 10,
+      "postId": 4,
+      "userId": 1
+    },
+    {
+      "id": 11,
+      "postId": 4,
+      "userId": 2
+    },
+    {
+      "id": 12,
+      "postId": 4,
+      "userId": 3
+    },
+    {
+      "id": 13,
+      "postId": 5,
+      "userId": 1
+    },
+    {
+      "id": 14,
+      "postId": 5,
+      "userId": 2
+    },
+    {
+      "id": 15,
+      "postId": 5,
+      "userId": 3
+    },
+    {
+      "id": 16,
+      "postId": 6,
+      "userId": 1
+    },
+    {
+      "id": 17,
+      "postId": 6,
+      "userId": 2
+    },
+    {
+      "id": 18,
+      "postId": 6,
+      "userId": 3
+    },
+    {
+      "id": 19,
+      "postId": 7,
+      "userId": 1
+    },
+    {
+      "id": 20,
+      "postId": 7,
+      "userId": 2
+    },
+    {
+      "id": 22,
+      "postId": 8,
+      "userId": 1
+    },
+    {
+      "id": 23,
+      "postId": 8,
+      "userId": 2
+    },
+    {
+      "id": 24,
+      "postId": 8,
+      "userId": 3
+    },
+    {
+      "id": 25,
+      "postId": 9,
+      "userId": 1
+    },
+    {
+      "id": 26,
+      "postId": 9,
+      "userId": 2
+    },
+    {
+      "id": 27,
+      "postId": 9,
+      "userId": 3
+    },
+    {
+      "id": 28,
+      "postId": 10,
+      "userId": 1
+    },
+    {
+      "id": 29,
+      "postId": 10,
+      "userId": 2
+    },
+    {
+      "id": 30,
+      "postId": 10,
+      "userId": 3
+    },
+    {
+      "id": 31,
+      "postId": 11,
+      "userId": 1
+    },
+    {
+      "id": 32,
+      "postId": 11,
+      "userId": 2
+    },
+    {
+      "id": 33,
+      "postId": 11,
+      "userId": 3
+    },
+    {
+      "id": 34,
+      "postId": 12,
+      "userId": 1
+    },
+    {
+      "id": 35,
+      "postId": 12,
+      "userId": 2
+    },
+    {
+      "id": 36,
+      "postId": 12,
+      "userId": 3
+    },
+    {
+      "id": 37,
+      "postId": 13,
+      "userId": 1
+    },
+    {
+      "id": 38,
+      "postId": 13,
+      "userId": 2
+    },
+    {
+      "id": 39,
+      "postId": 13,
+      "userId": 3
+    },
+    {
+      "id": 40,
+      "postId": 14,
+      "userId": 1
+    },
+    {
+      "id": 41,
+      "postId": 14,
+      "userId": 2
+    },
+    {
+      "id": 42,
+      "postId": 14,
+      "userId": 3
+    },
+    {
+      "id": 43,
+      "postId": 15,
+      "userId": 1
+    },
+    {
+      "id": 44,
+      "postId": 15,
+      "userId": 2
+    },
+    {
+      "id": 45,
+      "postId": 15,
+      "userId": 3
+    },
+    {
+      "id": 46,
+      "postId": 16,
+      "userId": 1
+    },
+    {
+      "id": 47,
+      "postId": 16,
+      "userId": 2
+    },
+    {
+      "id": 48,
+      "postId": 16,
+      "userId": 3
+    },
+    {
+      "id": 49,
+      "postId": 17,
+      "userId": 1
+    },
+    {
+      "id": 50,
+      "postId": 17,
+      "userId": 2
+    },
+    {
+      "id": 51,
+      "postId": 17,
+      "userId": 3
+    },
+    {
+      "id": 52,
+      "postId": 18,
+      "userId": 1
+    },
+    {
+      "id": 53,
+      "postId": 18,
+      "userId": 2
+    },
+    {
+      "id": 54,
+      "postId": 18,
+      "userId": 3
+    },
+    {
+      "id": 55,
+      "postId": 19,
+      "userId": 1
+    },
+    {
+      "id": 56,
+      "postId": 19,
+      "userId": 2
+    },
+    {
+      "id": 57,
+      "postId": 19,
+      "userId": 3
+    },
+    {
+      "id": 58,
+      "postId": 20,
+      "userId": 1
+    },
+    {
+      "id": 59,
+      "postId": 20,
+      "userId": 2
+    },
+    {
+      "id": 60,
+      "postId": 20,
+      "userId": 3
+    },
+    {
+      "postId": 1,
+      "userId": 6,
+      "id": 62
+    },
+    {
+      "postId": 2,
+      "userId": 6,
+      "id": 63
+    },
+    {
+      "postId": 11,
+      "userId": 6,
+      "id": 64
+    },
+    {
+      "postId": 4,
+      "userId": 6,
+      "id": 65
+    },
+    {
+      "postId": 16,
+      "userId": 6,
+      "id": 66
+    },
+    {
+      "postId": 18,
+      "userId": 6,
+      "id": 68
+    }
+  ]
+}
